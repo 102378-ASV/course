@@ -1,5 +1,4 @@
 #  102378 · Administració i Virtualització de Sistemes
-<img align="left" width="100" height="100" src="https://github.com/102378-ASV/course/assets/61190134/9f7dc6a8-cc74-461d-a492-b6581bf41cf7">
 
 *Instructor*: [Jordi Mateo Fornés](http:jordimateofornes.com)
 
